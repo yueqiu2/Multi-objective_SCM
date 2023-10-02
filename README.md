@@ -1,4 +1,5 @@
-# Evolutionary Algorithms in Reinforcement Learning - Multi-objective Optimization in Inventory Management
+# Evolutionary Algorithms in Reinforcement Learning 
+# - Multi-objective Optimization in Inventory Management
 ### Project
 - Motivation: Strike a balance between financial gains and transporation environmental impact of supply chain operations
 - Goal: Identify the trade-off solutions (Pareto front)
