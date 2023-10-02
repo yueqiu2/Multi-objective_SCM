@@ -24,16 +24,17 @@
 
 #### Case 2 (when agent knows more): State formulation - Inventory level, backlog, unfulfilled order + Previous customer demand
 <img width="764" alt="Screenshot 2023-10-02 at 11 33 57" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/bfd5082a-a463-4a3c-877e-088ace827ded">
+
 - **Pareto front with better diversity if the agent has more info about the environment!**
 
 #### Investigation of NSGA-II hyperparameter: 
 - (1) Ratio of number of offspring & population size
 - (2) Ratio of population size & number of generation
-<img width="966" alt="Screenshot 2023-10-02 at 11 35 31" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/84e04fb0-eaa7-4d33-bdcf-55fd8bb842ee">
+<img width="719" alt="Screenshot 2023-10-02 at 11 39 58" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/ac1cafe0-5826-4343-9572-fcb0af3da605">
 
 #### Investigation of AGE-MOEA hyperparameter: 
 - Ratio of population size & number of generation
-<img width="509" alt="Screenshot 2023-10-02 at 11 35 41" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/d88d0f55-d2c9-49b3-95f3-d1a1fa8fea95">
+<img width="354" alt="Screenshot 2023-10-02 at 11 39 34" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/2d42b19c-0b2e-488f-acc9-23324b0252d5">
 
 - **The hyperparameter ratios obtained by BO are the best (with highest hypervolume!**
 
