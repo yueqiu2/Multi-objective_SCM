@@ -11,5 +11,11 @@
 - Use Bayesian optimization to smart tune hyperparameters of the MOEAs
 
 ### Result
-#### State formulation: Inventory level, backlog, unfulfilled order
-![MicrosoftTeams-image](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/f8d7e987-a1e5-41e1-9697-cc2941fd7acd)
+#### Case 1: State formulation - Inventory level, backlog, unfulfilled order
+![MicrosoftTeams-image copy](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/ab3342b3-14ee-4c88-a089-b40460361bed)
+- Converge within evaluation budget
+- Well-defined Pareto front
+
+#### Case 2 (when agent knows more): State formulation - Inventory level, backlog, unfulfilled order + Previous customer demand
+![MicrosoftTeams-image (1) copy](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/5be9924a-e9df-4b98-94b9-486eae3972fb)
+- **Pareto front with better diversity**
