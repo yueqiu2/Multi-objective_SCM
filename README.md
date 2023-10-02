@@ -5,7 +5,7 @@
 - Key library: pymoo
 
 ### Supply Chain Network in this problem
-![3 1](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/6389e41a-4a32-485f-b3ae-fc13f8c359e2)
+<img width="314" alt="Screenshot 2023-10-02 at 11 32 29" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/80fc7d07-a555-42a2-83e0-a82ee3338c2b">
 
 ### Methodology 
 <img width="1326" alt="Screenshot 2023-10-02 at 00 55 32" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/5c44749b-68b7-44fc-8907-8381a64cb810">
