@@ -18,4 +18,7 @@
 
 #### Case 2 (when agent knows more): State formulation - Inventory level, backlog, unfulfilled order + Previous customer demand
 ![MicrosoftTeams-image (1) copy](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/5be9924a-e9df-4b98-94b9-486eae3972fb)
-- **Pareto front with better diversity**
+- **Pareto front with better diversity if the agent has more info about the environment!**
+
+### Summary
+Novel methodology works for this multi-objective optimization problem! but with way more to expand on methodological front and supply chain environment setting.
