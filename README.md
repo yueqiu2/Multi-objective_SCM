@@ -21,4 +21,5 @@
 - **Pareto front with better diversity if the agent has more info about the environment!**
 
 ### Summary
-Novel methodology works for this multi-objective optimization problem! but with way more to expand on methodological front and supply chain environment setting.
+- Novel methodology works for this multi-objective optimization (MOO) problem of inventory management, the first to combine RL+MOO.
+- But more to expand on methodological front and supply chain environment setting.
