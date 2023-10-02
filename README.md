@@ -9,6 +9,7 @@
 
 ### Methodology 
 <img width="1326" alt="Screenshot 2023-10-02 at 00 55 32" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/5c44749b-68b7-44fc-8907-8381a64cb810">
+
 - Apply reinforcement learning framework
 - Use multi-objective evolutionary algorithms (MOEAs) to optimize the policy net
 - The MOEAs are: (1) NSGA-II (classic!), (2) AGE-MOEA (state-of-the-art).
@@ -16,7 +17,8 @@
 
 ### Result
 #### Case 1: State formulation - Inventory level, backlog, unfulfilled order
-![MicrosoftTeams-image copy](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/ab3342b3-14ee-4c88-a089-b40460361bed)
+<img width="773" alt="Screenshot 2023-10-02 at 11 33 38" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/a149dbcc-3233-4d95-895d-f83bc8d65d0b">
+
 - Converge within evaluation budget
 - Well-defined Pareto front
 
