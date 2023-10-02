@@ -23,21 +23,21 @@
 - Well-defined Pareto front
 
 #### Case 2 (when agent knows more): State formulation - Inventory level, backlog, unfulfilled order + Previous customer demand
-![MicrosoftTeams-image (1) copy](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/5be9924a-e9df-4b98-94b9-486eae3972fb)
+<img width="764" alt="Screenshot 2023-10-02 at 11 33 57" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/bfd5082a-a463-4a3c-877e-088ace827ded">
 - **Pareto front with better diversity if the agent has more info about the environment!**
 
-#### Investigation of NSGA-II hyperparameter: ratio of number of offspring & population size
-![5 2 1](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/a2af5416-6c68-43bc-8593-5e13729d013b)
+#### Investigation of NSGA-II hyperparameter: 
+- (1) Ratio of number of offspring & population size
+- (2) Ratio of population size & number of generation
+<img width="966" alt="Screenshot 2023-10-02 at 11 35 31" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/84e04fb0-eaa7-4d33-bdcf-55fd8bb842ee">
 
-#### Investigation of NSGA-II hyperparameter: ratio of population size & number of generation
-![5 2 2](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/d0ccd80c-8a34-4c13-acab-1c9c8a061eda)
+#### Investigation of AGE-MOEA hyperparameter: 
+- Ratio of population size & number of generation
+<img width="509" alt="Screenshot 2023-10-02 at 11 35 41" src="https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/d88d0f55-d2c9-49b3-95f3-d1a1fa8fea95">
 
-#### Investigation of AGE-MOEA hyperparameter: ratio of population size & number of generation
-![5 2 3](https://github.com/yueqiu2/Multi-objective_SCM/assets/146023548/3b05695d-53bf-44a6-92e3-1dd608a1ad0b)
-
-
-
+- **The hyperparameter ratios obtained by BO are the best (with highest hypervolume!**
 
 ### Summary
 - Novel methodology works for this multi-objective optimization (MOO) problem of inventory management, the first to combine RL+MOO.
+- BO can successfully fine-tune the hyperparameter
 - But more to expand on methodological front and supply chain environment setting.
